@@ -1,0 +1,5 @@
+﻿  ソース.cpp
+C:\Users\user\Desktop\プログラミング技法１\memo\memo\ソース.cpp(12,7): warning C4101: 'com': ローカル変数は 1 度も使われていません。
+C:\Users\user\Desktop\プログラミング技法１\memo\memo\ソース.cpp(15,6): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+C:\Users\user\Desktop\プログラミング技法１\memo\memo\ソース.cpp(15,9): warning C4101: 'num': ローカル変数は 1 度も使われていません。
+  memo.vcxproj -> C:\Users\user\Desktop\プログラミング技法１\memo\Debug\memo.exe
